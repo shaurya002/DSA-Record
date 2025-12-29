@@ -1,0 +1,51 @@
+🟩 LEVEL 1: FIXED SIZE WINDOW
+Maximum Sum Subarray of Size K https://leetcode.com/problems/maximum-average-subarray-i/
+Average of Subarrays of Size K https://leetcode.com/problems/maximum-average-subarray-i/
+Sum of All Subarrays of Size K https://practice.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1
+First Negative Number in Every Window of Size K https://practice.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1
+Maximum Element in Every Window of Size K https://leetcode.com/problems/sliding-window-maximum/
+Minimum Element in Every Window of Size K https://practice.geeksforgeeks.org/problems/minimum-element-in-a-subarray-of-size-k/1
+Count Occurrences of Anagrams https://practice.geeksforgeeks.org/problems/count-occurences-of-anagrams5839/1
+Distinct Numbers in Each Window of Size K https://practice.geeksforgeeks.org/problems/count-distinct-elements-in-every-window/1
+Subarray with Exactly K Elements https://leetcode.com/problems/subarrays-with-k-different-integers/
+
+🟨 LEVEL 2: VARIABLE SIZE WINDOW
+Longest Subarray with Sum ≤ K https://practice.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1
+Longest Subarray with Sum = K (positive) https://leetcode.com/problems/subarray-sum-equals-k/
+Smallest Subarray with Sum ≥ K https://leetcode.com/problems/minimum-size-subarray-sum/
+Subarray Product Less Than K https://leetcode.com/problems/subarray-product-less-than-k/
+Longest Subarray of 1s After Replacing At Most K 0s https://leetcode.com/problems/max-consecutive-ones-iii/
+Max Consecutive Ones III https://leetcode.com/problems/max-consecutive-ones-iii/
+Longest Subarray with At Most K Zeros https://leetcode.com/problems/max-consecutive-ones-iii/
+Number of Subarrays with Sum < K https://leetcode.com/problems/binary-subarrays-with-sum/
+Count Subarrays with Product Less Than K https://leetcode.com/problems/subarray-product-less-than-k/
+Count Subarrays with At Most K Odd Numbers https://leetcode.com/problems/count-number-of-nice-subarrays/
+
+🟦 LEVEL 3: STRING + HASHMAP WINDOW
+Longest Substring Without Repeating Characters https://leetcode.com/problems/longest-substring-without-repeating-characters/
+Smallest Substring Without Repeating Characters https://practice.geeksforgeeks.org/problems/smallest-distinct-window/1
+Longest Substring with At Most K Distinct Characters https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/
+Longest Substring with Exactly K Distinct Characters https://practice.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1
+Count Substrings with At Most K Distinct Characters https://leetcode.com/problems/subarrays-with-k-different-integers/
+Count Substrings with Exactly K Distinct Characters https://leetcode.com/problems/subarrays-with-k-different-integers/
+Find All Anagrams in a String https://leetcode.com/problems/find-all-anagrams-in-a-string/
+Count Occurrences of Anagrams https://practice.geeksforgeeks.org/problems/count-occurences-of-anagrams5839/1
+Permutation in String https://leetcode.com/problems/permutation-in-string/
+
+🟥 HARD WINDOW PROBLEMS
+Minimum Window Substring https://leetcode.com/problems/minimum-window-substring/
+Smallest Window Containing All Characters https://practice.geeksforgeeks.org/problems/smallest-window-containing-0-1-and-2/1
+Longest Substring with At Least K Repeating Characters https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/
+
+🟪 ADVANCED / INTERVIEW LEVEL
+Subarrays with Exactly K Different Integers https://leetcode.com/problems/subarrays-with-k-different-integers/
+Binary Subarrays with Sum https://leetcode.com/problems/binary-subarrays-with-sum/
+Count Number of Nice Subarrays https://leetcode.com/problems/count-number-of-nice-subarrays/
+Fruits Into Baskets https://leetcode.com/problems/fruit-into-baskets/
+Longest Continuous Subarray with Absolute Diff ≤ Limit https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/
+Subarray Sum Equals K https://leetcode.com/problems/subarray-sum-equals-k/
+
+🏆 FINAL MASTERY
+Sliding Window Maximum https://leetcode.com/problems/sliding-window-maximum/
+Substring with Concatenation of All Words https://leetcode.com/problems/substring-with-concatenation-of-all-words/
+Longest Repeating Character Replacement https://leetcode.com/problems/longest-repeating-character-replacement/
