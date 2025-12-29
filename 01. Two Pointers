@@ -1,0 +1,61 @@
+[Learning Phase]
+
+🔹 Pattern 1: Left–Right Pointer
+👉 Used when working on arrays/strings, usually sorted, or when shrinking a window from both sides.
+📘 Beginner
+LC 125 – Valid Palindrome 
+LC 344 – Reverse String
+LC 977 – Squares of a Sorted Array
+LC 167 – Two Sum II (Input Array Is Sorted)
+
+📘 Medium
+LC 11 – Container With Most Water
+LC 15 – 3Sum
+LC 18 – 4Sum
+LC 16 – 3Sum Closest
+📌 Key Learning
+One pointer starts from left, one from right
+Move pointers based on condition (sum, comparison, mismatch)
+Eliminates O(n²) brute force in many cases
+
+
+
+
+
+🔹 Pattern 2: Fast–Slow Pointer
+👉 Used when one pointer moves faster than the other Very common in arrays and linked lists
+📘 Beginner
+LC 141 – Linked List Cycle
+LC 876 – Middle of the Linked List
+LC 202 – Happy Number
+
+📘 Medium
+LC 287 – Find the Duplicate Number
+LC 142 – Linked List Cycle II
+📌 Key Learning
+Fast moves 2x, slow moves 1x
+If they meet → cycle exists
+Helps reduce extra space (no HashSet)
+
+
+
+
+🔹 Pattern 3: Opposite Ends (Special Case of Two Pointers)
+👉 Pointers start from both ends, mostly in sorted arrays
+📘 Beginner
+LC 26 – Remove Duplicates from Sorted Array
+LC 27 – Remove Element
+LC 283 – Move Zeroes
+
+📘 Medium
+LC 80 – Remove Duplicates from Sorted Array II
+LC 75 – Sort Colors
+📌 Key Learning
+One pointer tracks position
+Other scans array
+In-place operations (no extra space)
+
+
+[Practice Phase]
+
+
