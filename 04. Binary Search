@@ -1,0 +1,96 @@
+🔹 LEVEL 1: BASIC BINARY SEARCH (Search Space = Index)
+Goal: Learn classic binary search mechanics
+
+35. Search Insert Position
+704. Binary Search
+374. Guess Number Higher or Lower
+367. Valid Perfect Square
+69. Sqrt(x)
+278. First Bad Version
+441. Arranging Coins
+
+🧠 Pattern learned:
+while (l <= r)
+mid calculation
+exact match vs boundary
+
+🔹 LEVEL 2: FIRST / LAST OCCURRENCE (Lower & Upper Bound)
+Goal: Control boundaries precisely
+
+34. Find First and Last Position of Element in Sorted Array
+162. Find Peak Element
+852. Peak Index in a Mountain Array
+744. Find Smallest Letter Greater Than Target
+153. Find Minimum in Rotated Sorted Array
+154. Find Minimum in Rotated Sorted Array II
+
+🧠 Pattern learned:
+First ≥ target
+Last ≤ target
+Why return s, not e
+
+🔹 LEVEL 3: ROTATED SORTED ARRAY
+Goal: Decide which side is sorted
+
+33. Search in Rotated Sorted Array
+81. Search in Rotated Sorted Array II
+153. Find Minimum in Rotated Sorted Array
+154. Find Minimum in Rotated Sorted Array II
+
+🧠 Pattern learned:
+Left sorted vs right sorted
+Mid-based decisions
+
+🔹 LEVEL 4: ANSWER-BASED BINARY SEARCH (MOST IMPORTANT)
+🔥 Search space is NOT index — it’s the answer
+
+875. Koko Eating Bananas
+1011. Capacity To Ship Packages Within D Days
+410. Split Array Largest Sum
+1283. Find the Smallest Divisor Given a Threshold
+1482. Minimum Number of Days to Make m Bouquets
+1552. Magnetic Force Between Two Balls
+1760. Minimum Limit of Balls in a Bag
+1870. Minimum Speed to Arrive on Time
+
+🧠 Pattern learned:
+low = min possible answer
+high = max possible answer
+Feasibility check (can(mid))
+
+🔹 LEVEL 5: MATRIX / 2D BINARY SEARCH
+Goal: Mapping index ↔ matrix
+
+74. Search a 2D Matrix
+240. Search a 2D Matrix II
+378. Kth Smallest Element in a Sorted Matrix
+668. Kth Smallest Number in Multiplication Table
+
+🧠 Pattern learned:
+Row-wise vs column-wise
+Count ≤ mid
+
+🔹 LEVEL 6: Kth ELEMENT / VALUE-BASED
+Goal: Binary search + counting
+
+215. Kth Largest Element in an Array
+378. Kth Smallest Element in a Sorted Matrix
+719. Find K-th Smallest Pair Distance
+786. K-th Smallest Prime Fraction
+
+🧠 Pattern learned:
+Binary search on distance / value
+Counting pairs ≤ mid
+
+🔹 LEVEL 7: ADVANCED / INTERVIEW-GRADE
+For strong companies
+
+4. Median of Two Sorted Arrays
+410. Split Array Largest Sum
+774. Minimize Max Distance to Gas Station
+1231. Divide Chocolate
+2064. Minimized Maximum of Products Distributed to Any Store
+
+🧠 Pattern learned:
+Binary search on partitioning
+Greedy + BS
